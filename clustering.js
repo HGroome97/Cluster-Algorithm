@@ -1,8 +1,8 @@
 let xClusterVals = [];
 let yClusterVals = [];
 
-let x_vals = [];
 let y_vals = [];
+let x_vals = [];
 
 let nearestCentroid = [];
 let nearestCentroidDistance = [];
